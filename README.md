@@ -1,6 +1,5 @@
-## 👋 Hi there
+Hey My name is Furkan Güldalı
 
-## 📫  You can follow me here:
+Thanks for looking 👀 into my profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-g%C3%BCldal%C4%B1-0a7761215)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guldalifurkan)
+![Welcome gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFuZWlxbG5lcG0yN2hxcWlhOHlzZ3VrMGd5MHFlNnlzdjN3bmNqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OF0yOAufcWLfi/giphy.gif)
